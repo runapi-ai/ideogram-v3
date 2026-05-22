@@ -4,6 +4,17 @@ description: Generate, edit, and remix images through RunAPI.ai using the @runap
 documentation: https://runapi.ai/models/ideogram-v3
 provider_page: https://runapi.ai/providers/ideogram
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/ideogram-v3
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 # @runapi.ai/ideogram-v3 - RunAPI.ai Ideogram V3 image generation
 
@@ -19,7 +30,7 @@ npm install @runapi.ai/ideogram-v3
 
 ```dotenv
 # .env
-RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/settings/api_keys
+RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/api_keys
 ```
 
 ```ts
