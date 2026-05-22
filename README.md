@@ -1,6 +1,23 @@
-# Ideogram V3 API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/ideogram-v3">
+    <h3 align="center">Ideogram V3 API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Ideogram V3 fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/ideogram-v3.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/ideogram-v3"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/ideogram-v3-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/ideogram-v3)](https://skills.sh/runapi-ai/ideogram-v3)
+
+</div>
+<br/>
 
 Generate, edit, and remix images with Ideogram V3. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Ideogram V3 through RunAPI.
 
