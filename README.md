@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/ideogram-v3.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/ideogram-v3"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/ideogram-v3-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/ideogram-v3"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/ideogram-v3-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/ideogram-v3)](https://skills.sh/runapi-ai/ideogram-v3)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/ideogram-v3)](https://www.skills.sh/runapi-ai/ideogram-v3/ideogram-v3)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--ideogram--v3-111827)](https://clawhub.ai/runapi-ai/runapi-ideogram-v3)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/ideogram-v3)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/ideogram-v3)](https://github.com/runapi-ai/ideogram-v3/blob/main/LICENSE)
 
 </div>
 <br/>
