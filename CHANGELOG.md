@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.10](https://github.com/runapi-ai/ideogram-v3/releases/tag/v0.2.10) - 2026-08-12
+
+### Changed
+- Generate the ideogram-v3 skill from the shared RunAPI recipe with contract-discovered request rules and task behavior, direct local media inputs, complete result verification, and bounded recovery.
+
+
 ## [v0.2.9](https://github.com/runapi-ai/ideogram-v3/releases/tag/v0.2.9) - 2026-08-10
 
 ### Changed
