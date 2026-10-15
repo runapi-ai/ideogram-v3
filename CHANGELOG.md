@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.3.0](https://github.com/runapi-ai/ideogram-v3/releases/tag/v0.3.0) - 2026-10-15
+
+### Removed
+- Remove retired ideogram-v3-reframe from the selectable Ideogram V3 skill variants.
+  Migration: Do not submit new Reframe tasks; new requests return HTTP 410. Query existing task IDs through the task-status API. Other Ideogram V3 variants remain available; no automatic model replacement is provided.
+
+
 ## [v0.2.10](https://github.com/runapi-ai/ideogram-v3/releases/tag/v0.2.10) - 2026-08-12
 
 ### Changed
